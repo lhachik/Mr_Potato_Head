@@ -28,6 +28,10 @@ h1 {
 /* Insert CSS for mouth below this line*/
 
 /* Insert CSS for nose below this line*/
+#nose{
+  top: 140px;
+  left: 130px;
+}
 
 /* Insert CSS for eyebrows below this line*/
 
